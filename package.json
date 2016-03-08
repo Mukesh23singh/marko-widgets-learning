@@ -1,0 +1,18 @@
+{
+  "name": "marko-sample-codes",
+  "version": "1.0.0",
+  "description": "marko demo for server side html rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lasso": "^1.11.11",
+    "lasso-marko": "^2.0.7",
+    "marko": "^2.7.25",
+    "marko-widgets": "^5.0.9"
+  }
+}
