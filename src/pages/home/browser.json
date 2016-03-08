@@ -1,0 +1,6 @@
+{
+    "dependencies": [
+        "require-run: ./client"//,
+        //"src/components/app-stateless-click-count"
+    ]
+}
